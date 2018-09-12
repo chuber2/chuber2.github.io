@@ -1,10 +1,6 @@
 <!DOCTYPE html>
 <html>
-	<head>
-		<title>Chris Huber, Cornell Student</title>
-		<!-- link to main stylesheet -->
-		<link rel="stylesheet" type="text/css" href="/css/main.css">
-	</head>
+	<?php include "php/head.php"; ?>
 	<body>
 		<nav>
     		<ul>
